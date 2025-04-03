@@ -8,6 +8,10 @@ body{
     background-color:black;
 }
 
+nav .navbar-brand img{
+    width: 120px;
+}
+
 .nav-link{
     color: lightpink;
 }
@@ -23,3 +27,4 @@ body{
 .item h2{
     color: lightpink;
 }
+

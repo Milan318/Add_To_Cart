@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.nav-link{
+    color: lightpink;
+}
+
+.card-title{
+    color: lightpink;
+}
+
+.card-body button{
+    color: lightpink;
+    
+}

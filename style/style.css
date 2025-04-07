@@ -7,3 +7,19 @@
 .latest-product img{
    height: 400px;
 }
+
+.nav-link:hover{
+  color:rgb(27, 211, 211);
+}
+
+.navbar-nav .bi:hover{
+    color:rgb(27, 211, 211); 
+}
+
+.btn-dark:hover{
+    background-color:rgb(27, 211, 211); 
+}
+
+.bi-cart-fill:hover{
+    color:rgb(27, 211, 211);  
+}

@@ -9,19 +9,19 @@
 }
 
 .nav-link:hover{
-  color:rgb(27, 211, 211);
+  color:rgb(126, 126, 126);
 }
 
 .navbar-nav .bi:hover{
-    color:rgb(27, 211, 211); 
+    color:rgb(126, 126, 126); 
 }
 
 .btn-dark:hover{
-    background-color:rgb(27, 211, 211); 
+    background-color:rgb(126, 126, 126); 
 }
 
 .bi-cart-fill:hover{
-    color:rgb(27, 211, 211);  
+    color:rgb(126, 126, 126);  
 }
 
 .card{

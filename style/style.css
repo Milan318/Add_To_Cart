@@ -23,3 +23,11 @@
 .bi-cart-fill:hover{
     color:rgb(27, 211, 211);  
 }
+
+.card{
+    transition: 0.3s ease; 
+}
+
+.card:hover{
+    scale: 1.05;
+}

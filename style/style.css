@@ -4,26 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color:black;
-}
-
-nav .navbar-brand img{
-    width: 120px;
-}
-
-.nav-link{
-    color: lightpink;
-}
-
-.card-title{
-    color: lightpink;
-}
-
-.card-body button{
-    color: lightpink;
-}
-
-.item h2{
-    color: lightpink;
+.latest-product img{
+   height: 400px;
 }

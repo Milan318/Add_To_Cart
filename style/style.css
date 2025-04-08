@@ -31,3 +31,8 @@
 .card:hover{
     scale: 1.05;
 }
+
+.cart-img img{
+    max-width: 100px;
+    max-height: 100px;
+}

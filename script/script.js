@@ -53,10 +53,11 @@ const cardDisplay = (idx)=>{
 
 const addQuantity=((num,idx)=>{
     data[idx].quantity += num;
-
     if(data[idx].quantity<=0){
         data.splice(idx,1)
     }
     cardDisplay();
 })
+
+
 
